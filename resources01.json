@@ -1,1 +1,10 @@
-[{"rowId":0,"values":["REGIONS","Nombre de votants"]}, {"rowId":2,"values":["Pikine","124 99.2%"]}, {"rowId":1,"values":["Dakar","1163 67.5377468060395%"]}]
+[{
+	"rowId": 0,
+	"values": ["REGIONS", "Nombre de votants"]
+}, {
+	"rowId": 2,
+	"values": ["Pikine", "124 99.2%"]
+}, {
+	"rowId": 1,
+	"values": ["Dakar", "1163 67.5377468060395%"]
+}]
